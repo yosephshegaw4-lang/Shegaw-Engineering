@@ -1,0 +1,15 @@
+shegaw-engineering/
+├── index.html
+├── about.html
+├── services.html
+├── projects.html
+├── contact.html
+├── admin/
+│   └── index.html
+├── config.yml
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+└── images/
+    └── (your images)
